@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "653461693916",
+    "firebase_url": "https://game2d-d1b6f-default-rtdb.firebaseio.com",
+    "project_id": "game2d-d1b6f",
+    "storage_bucket": "game2d-d1b6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653461693916:android:ec864438c5e5e55be7db19",
+        "android_client_info": {
+          "package_name": "com.example.game2d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653461693916-pi8h6jii8nrjcusf7ocgd1j3d851rp2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRFy-lzao6IEg64fkVl-MEdKkxQLBYx80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653461693916-pi8h6jii8nrjcusf7ocgd1j3d851rp2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "653461693916-41ltpk7ujklfg1hqcb9hcc5jt6ccdc20.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.game2d"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

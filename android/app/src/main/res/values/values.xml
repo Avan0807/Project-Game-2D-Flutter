@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_app_id">1:653461693916:android:ec864438c5e5e55be7db19</string>
+    <string name="firebase_database_url">https://game2d-d1b6f-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">653461693916</string>
+    <string name="google_api_key">AIzaSyAwHJCZzW2bn7dyUA3Zo3Neh76zMNckP1g</string>
+    <string name="google_storage_bucket">game2d-d1b6f.appspot.com</string>
+    <string name="project_id">game2d-d1b6f</string>
+</resources>

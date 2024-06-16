@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>653461693916-41ltpk7ujklfg1hqcb9hcc5jt6ccdc20.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.653461693916-41ltpk7ujklfg1hqcb9hcc5jt6ccdc20</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC-6cdaiS9E9nMqoT8lWhYhbkPCeJoKbd0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>653461693916</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.game2d</string>
+	<key>PROJECT_ID</key>
+	<string>game2d-d1b6f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>game2d-d1b6f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:653461693916:ios:95086c51d89b237ae7db19</string>
+	<key>DATABASE_URL</key>
+	<string>https://game2d-d1b6f-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
